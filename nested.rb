@@ -16,7 +16,6 @@ def hopper
         }
      }
 		 programmer_hash[:grace_hopper]
-
 end
 
 def alan_kay_is_known_for
@@ -65,7 +64,6 @@ def adding_matz
 #   :known_for => "Ruby",
 #    :languages => ["LISP", "C"]
 # }
-
 	programmer_hash =
  		{
 				:yukihiro_matsumoto => {
@@ -85,8 +83,6 @@ def adding_matz
           :languages => ["C"]
         }
      }
-
-
 end
 
 def changing_alan
